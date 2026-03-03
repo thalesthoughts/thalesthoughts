@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Thales
 
-I am a second-year undergraduate student studying *physics* and *mathematics*.
+I am a second-year undergraduate pursuing a B.Sc. in *Physics*, with double minors in *Mathematics* and *Philosophy*.
 
-My research interests include *theoretical astrophysics* and *cosmology*, with interdisciplinary work in analytic philosophy, particularly *metaphysics*, *philosophy of mind*, and *philosophy of science*.
+My research interests focus on physics beyond the Standard Model, including dark matter models, early-universe cosmology and inflation, neutrino physics, and astrophysical phenomena such as black holes, gravitational waves, and the large-scale structure of the universe.
 
 I work primarily in scientific computing and computational astrophysics, focusing on theoretical modeling, simulations, and data analysis.
 
